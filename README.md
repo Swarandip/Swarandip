@@ -1,4 +1,6 @@
-## Hi there 👋
+<a href="https://linkedin.com/in/swarandip-mandal-9006302b7">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/logos/color.svg" alt="LinkedIn logo" width="20" height="20">
+</a>
 
 <!--
 **Swarandip/Swarandip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
